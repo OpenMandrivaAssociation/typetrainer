@@ -10,6 +10,7 @@ License:	MIT
 Group:		Text tools
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: python
+BuildRequires: python-setuptools
 Requires:       python pygtk2.0
 
 %description
