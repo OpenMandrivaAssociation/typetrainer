@@ -2,7 +2,7 @@
 Summary:        Typing skills training utility
 Name:           typetrainer
 Version:        0.3.1
-Release:        2
+Release:        3
 # generated with python setup.py sdist
 # git commit e997d831dbd35a2927d37a03f5e293b4e5ce48ad
 Source0:        %{name}-%{version}.tar.gz
